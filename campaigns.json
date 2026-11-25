@@ -1,4 +1,330 @@
 {
   "version": 1,
-  "messages": []
+  "messages": [
+    {
+      "id": "fast-thu-2026-12-02",
+      "date": "2026-12-02",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: يُستحب صيامه",
+        "en": "Tomorrow is Thursday: fasting is recommended"
+      },
+      "body": {
+        "ar": "قالت عائشة رضي الله عنها: كان رسول الله ﷺ يتحرّى صيام الاثنين والخميس. رواه الترمذي والنسائي. هل تصوم غدًا؟",
+        "en": "Aisha may Allah be pleased with her said: the Messenger of Allah ﷺ used to look for Monday and Thursday to fast. Narrated by al-Tirmidhi and al-Nasa'i. Will you fast tomorrow?"
+      }
+    },
+    {
+      "id": "fast-mon-2026-12-06",
+      "date": "2026-12-06",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: تُعرض الأعمال",
+        "en": "Tomorrow is Monday: deeds are presented"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُعرض الأعمال يوم الاثنين والخميس، فأحب أن يُعرض عملي وأنا صائم». رواه الترمذي. يُستحب صيام غد الاثنين.",
+        "en": "The Prophet ﷺ said: “Deeds are presented on Monday and Thursday, and I love that my deeds are presented while I am fasting.” Narrated by al-Tirmidhi. Fasting tomorrow, Monday, is recommended."
+      }
+    },
+    {
+      "id": "fast-thu-2026-12-09",
+      "date": "2026-12-09",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: تُعرض الأعمال",
+        "en": "Tomorrow is Thursday: deeds are presented"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُعرض الأعمال يوم الاثنين والخميس، فأحب أن يُعرض عملي وأنا صائم». رواه الترمذي. يُستحب صيام غد الخميس.",
+        "en": "The Prophet ﷺ said: “Deeds are presented on Monday and Thursday, and I love that my deeds are presented while I am fasting.” Narrated by al-Tirmidhi. Fasting tomorrow, Thursday, is recommended."
+      }
+    },
+    {
+      "id": "haram-rajab-2026",
+      "date": "2026-12-10",
+      "time": "08:00",
+      "title": {
+        "ar": "دخل شهر رجب",
+        "en": "Rajab has begun"
+      },
+      "body": {
+        "ar": "رجب من الأشهر الحرم. قال تعالى: «مِنْهَا أَرْبَعَةٌ حُرُمٌ ذَلِكَ الدِّينُ الْقَيِّمُ فَلَا تَظْلِمُوا فِيهِنَّ أَنفُسَكُمْ». عظّمها بالطاعة وترك الظلم.",
+        "en": "Rajab is one of the sacred months. Allah says: “Of them four are sacred. That is the correct religion, so do not wrong yourselves during them.” Honour them with obedience and avoiding injustice."
+      }
+    },
+    {
+      "id": "fast-mon-2026-12-13",
+      "date": "2026-12-13",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: أبواب الجنة تُفتح",
+        "en": "Tomorrow is Monday: the gates of Paradise open"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُفتح أبواب الجنة يوم الاثنين ويوم الخميس، فيُغفر لكل عبد لا يشرك بالله شيئًا». رواه مسلم. يُستحب صيام غد الاثنين.",
+        "en": "The Prophet ﷺ said: “The gates of Paradise are opened on Monday and Thursday, and every servant who associates nothing with Allah is forgiven.” Narrated by Muslim. Fasting tomorrow, Monday, is recommended."
+      }
+    },
+    {
+      "id": "silat-rahim-2026-12",
+      "date": "2026-12-15",
+      "time": "19:00",
+      "title": {
+        "ar": "صلة الرحم",
+        "en": "Keeping family ties"
+      },
+      "body": {
+        "ar": "قال ﷺ: «من أحب أن يُبسط له في رزقه ويُنسأ له في أثره فليصل رحمه». متفق عليه. اتصل اليوم بقريب لم تكلمه منذ مدة.",
+        "en": "The Prophet ﷺ said: “Whoever loves to have his provision expanded and his life extended should keep his family ties.” Agreed upon. Call a relative today you have not spoken to in a while."
+      }
+    },
+    {
+      "id": "fast-thu-2026-12-16",
+      "date": "2026-12-16",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: السحور بركة",
+        "en": "Tomorrow is Thursday: suhoor is a blessing"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تسحّروا فإن في السحور بركة». متفق عليه. إن نويت صيام غد الخميس فلا تترك السحور.",
+        "en": "The Prophet ﷺ said: “Eat suhoor, for in suhoor there is a blessing.” Agreed upon. If you intend to fast tomorrow, Thursday, do not skip suhoor."
+      }
+    },
+    {
+      "id": "fast-mon-2026-12-20",
+      "date": "2026-12-20",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: يومٌ صائم يباعدك عن النار",
+        "en": "Tomorrow is Monday: a day of fasting distances you from the Fire"
+      },
+      "body": {
+        "ar": "قال ﷺ: «من صام يومًا في سبيل الله باعد الله وجهه عن النار سبعين خريفًا». متفق عليه. هل تصوم غدًا الاثنين؟",
+        "en": "The Prophet ﷺ said: “Whoever fasts one day for the sake of Allah, Allah will distance his face from the Fire by seventy years.” Agreed upon. Will you fast tomorrow, Monday?"
+      }
+    },
+    {
+      "id": "sadaqah-2026-12",
+      "date": "2026-12-21",
+      "time": "08:00",
+      "title": {
+        "ar": "الصدقة",
+        "en": "Charity"
+      },
+      "body": {
+        "ar": "قال ﷺ: «ما نقصت صدقة من مال». رواه مسلم. تصدّق اليوم بما تيسّر ولو كان قليلًا، فالقليل الدائم خير من كثير منقطع.",
+        "en": "The Prophet ﷺ said: “Charity never decreases wealth.” Narrated by Muslim. Give what you can today, even if small. A little that continues is better than a lot that stops."
+      }
+    },
+    {
+      "id": "fast-thu-2026-12-23",
+      "date": "2026-12-23",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: يُستحب صيامه",
+        "en": "Tomorrow is Thursday: fasting is recommended"
+      },
+      "body": {
+        "ar": "قالت عائشة رضي الله عنها: كان رسول الله ﷺ يتحرّى صيام الاثنين والخميس. رواه الترمذي والنسائي. هل تصوم غدًا؟",
+        "en": "Aisha may Allah be pleased with her said: the Messenger of Allah ﷺ used to look for Monday and Thursday to fast. Narrated by al-Tirmidhi and al-Nasa'i. Will you fast tomorrow?"
+      }
+    },
+    {
+      "id": "fast-mon-2026-12-27",
+      "date": "2026-12-27",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: يُستحب صيامه",
+        "en": "Tomorrow is Monday: fasting is recommended"
+      },
+      "body": {
+        "ar": "سُئل النبي ﷺ عن صوم الاثنين فقال: «ذاك يوم وُلدتُ فيه، ويوم بُعثتُ أو أُنزل عليّ فيه». رواه مسلم. هل تصوم غدًا؟",
+        "en": "The Prophet ﷺ was asked about fasting on Monday and said: “That is the day I was born, and the day I was sent or revelation came to me.” Narrated by Muslim. Will you fast tomorrow?"
+      }
+    },
+    {
+      "id": "fast-thu-2026-12-30",
+      "date": "2026-12-30",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: تُعرض الأعمال",
+        "en": "Tomorrow is Thursday: deeds are presented"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُعرض الأعمال يوم الاثنين والخميس، فأحب أن يُعرض عملي وأنا صائم». رواه الترمذي. يُستحب صيام غد الخميس.",
+        "en": "The Prophet ﷺ said: “Deeds are presented on Monday and Thursday, and I love that my deeds are presented while I am fasting.” Narrated by al-Tirmidhi. Fasting tomorrow, Thursday, is recommended."
+      }
+    },
+    {
+      "id": "fast-mon-2027-01-03",
+      "date": "2027-01-03",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: تُعرض الأعمال",
+        "en": "Tomorrow is Monday: deeds are presented"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُعرض الأعمال يوم الاثنين والخميس، فأحب أن يُعرض عملي وأنا صائم». رواه الترمذي. يُستحب صيام غد الاثنين.",
+        "en": "The Prophet ﷺ said: “Deeds are presented on Monday and Thursday, and I love that my deeds are presented while I am fasting.” Narrated by al-Tirmidhi. Fasting tomorrow, Monday, is recommended."
+      }
+    },
+    {
+      "id": "fast-thu-2027-01-06",
+      "date": "2027-01-06",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: أبواب الجنة تُفتح",
+        "en": "Tomorrow is Thursday: the gates of Paradise open"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُفتح أبواب الجنة يوم الاثنين ويوم الخميس، فيُغفر لكل عبد لا يشرك بالله شيئًا». رواه مسلم. يُستحب صيام غد الخميس.",
+        "en": "The Prophet ﷺ said: “The gates of Paradise are opened on Monday and Thursday, and every servant who associates nothing with Allah is forgiven.” Narrated by Muslim. Fasting tomorrow, Thursday, is recommended."
+      }
+    },
+    {
+      "id": "fast-mon-2027-01-10",
+      "date": "2027-01-10",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: أبواب الجنة تُفتح",
+        "en": "Tomorrow is Monday: the gates of Paradise open"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُفتح أبواب الجنة يوم الاثنين ويوم الخميس، فيُغفر لكل عبد لا يشرك بالله شيئًا». رواه مسلم. يُستحب صيام غد الاثنين.",
+        "en": "The Prophet ﷺ said: “The gates of Paradise are opened on Monday and Thursday, and every servant who associates nothing with Allah is forgiven.” Narrated by Muslim. Fasting tomorrow, Monday, is recommended."
+      }
+    },
+    {
+      "id": "fast-thu-2027-01-13",
+      "date": "2027-01-13",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: السحور بركة",
+        "en": "Tomorrow is Thursday: suhoor is a blessing"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تسحّروا فإن في السحور بركة». متفق عليه. إن نويت صيام غد الخميس فلا تترك السحور.",
+        "en": "The Prophet ﷺ said: “Eat suhoor, for in suhoor there is a blessing.” Agreed upon. If you intend to fast tomorrow, Thursday, do not skip suhoor."
+      }
+    },
+    {
+      "id": "fast-mon-2027-01-17",
+      "date": "2027-01-17",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: يومٌ صائم يباعدك عن النار",
+        "en": "Tomorrow is Monday: a day of fasting distances you from the Fire"
+      },
+      "body": {
+        "ar": "قال ﷺ: «من صام يومًا في سبيل الله باعد الله وجهه عن النار سبعين خريفًا». متفق عليه. هل تصوم غدًا الاثنين؟",
+        "en": "The Prophet ﷺ said: “Whoever fasts one day for the sake of Allah, Allah will distance his face from the Fire by seventy years.” Agreed upon. Will you fast tomorrow, Monday?"
+      }
+    },
+    {
+      "id": "fast-thu-2027-01-20",
+      "date": "2027-01-20",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: يُستحب صيامه",
+        "en": "Tomorrow is Thursday: fasting is recommended"
+      },
+      "body": {
+        "ar": "قالت عائشة رضي الله عنها: كان رسول الله ﷺ يتحرّى صيام الاثنين والخميس. رواه الترمذي والنسائي. هل تصوم غدًا؟",
+        "en": "Aisha may Allah be pleased with her said: the Messenger of Allah ﷺ used to look for Monday and Thursday to fast. Narrated by al-Tirmidhi and al-Nasa'i. Will you fast tomorrow?"
+      }
+    },
+    {
+      "id": "fast-mon-2027-01-24",
+      "date": "2027-01-24",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: يُستحب صيامه",
+        "en": "Tomorrow is Monday: fasting is recommended"
+      },
+      "body": {
+        "ar": "سُئل النبي ﷺ عن صوم الاثنين فقال: «ذاك يوم وُلدتُ فيه، ويوم بُعثتُ أو أُنزل عليّ فيه». رواه مسلم. هل تصوم غدًا؟",
+        "en": "The Prophet ﷺ was asked about fasting on Monday and said: “That is the day I was born, and the day I was sent or revelation came to me.” Narrated by Muslim. Will you fast tomorrow?"
+      }
+    },
+    {
+      "id": "fast-thu-2027-01-27",
+      "date": "2027-01-27",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: تُعرض الأعمال",
+        "en": "Tomorrow is Thursday: deeds are presented"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُعرض الأعمال يوم الاثنين والخميس، فأحب أن يُعرض عملي وأنا صائم». رواه الترمذي. يُستحب صيام غد الخميس.",
+        "en": "The Prophet ﷺ said: “Deeds are presented on Monday and Thursday, and I love that my deeds are presented while I am fasting.” Narrated by al-Tirmidhi. Fasting tomorrow, Thursday, is recommended."
+      }
+    },
+    {
+      "id": "fast-mon-2027-01-31",
+      "date": "2027-01-31",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الاثنين: تُعرض الأعمال",
+        "en": "Tomorrow is Monday: deeds are presented"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُعرض الأعمال يوم الاثنين والخميس، فأحب أن يُعرض عملي وأنا صائم». رواه الترمذي. يُستحب صيام غد الاثنين.",
+        "en": "The Prophet ﷺ said: “Deeds are presented on Monday and Thursday, and I love that my deeds are presented while I am fasting.” Narrated by al-Tirmidhi. Fasting tomorrow, Monday, is recommended."
+      }
+    },
+    {
+      "id": "fast-thu-2027-02-03",
+      "date": "2027-02-03",
+      "time": "20:00",
+      "title": {
+        "ar": "غدًا الخميس: أبواب الجنة تُفتح",
+        "en": "Tomorrow is Thursday: the gates of Paradise open"
+      },
+      "body": {
+        "ar": "قال ﷺ: «تُفتح أبواب الجنة يوم الاثنين ويوم الخميس، فيُغفر لكل عبد لا يشرك بالله شيئًا». رواه مسلم. يُستحب صيام غد الخميس.",
+        "en": "The Prophet ﷺ said: “The gates of Paradise are opened on Monday and Thursday, and every servant who associates nothing with Allah is forgiven.” Narrated by Muslim. Fasting tomorrow, Thursday, is recommended."
+      }
+    },
+    {
+      "id": "ramadan-2027-eve",
+      "date": "2027-02-07",
+      "time": "20:00",
+      "title": {
+        "ar": "رمضان على الأبواب",
+        "en": "Ramadan is near"
+      },
+      "body": {
+        "ar": "بلّغنا الله وإياكم رمضان. جدّد نيتك، وافتح المصحف، وضع لك وردًا يوميًا من الآن.",
+        "en": "May Allah let us reach Ramadan. Renew your intention, open the Quran and set a daily portion from today."
+      }
+    },
+    {
+      "id": "ramadan-last-ten-2027",
+      "date": "2027-02-27",
+      "time": "18:30",
+      "title": {
+        "ar": "دخلت العشر الأواخر",
+        "en": "The last ten nights begin"
+      },
+      "body": {
+        "ar": "هذه ليالي ليلة القدر. أحيِ ليلك قدر طاقتك، وأكثر من: اللهم إنك عفوّ تحب العفو فاعف عني.",
+        "en": "These are the nights of Laylat al-Qadr. Pray what you can and repeat: O Allah, You are Forgiving and love forgiveness, so forgive me."
+      }
+    },
+    {
+      "id": "night-27-2027",
+      "date": "2027-03-05",
+      "time": "20:00",
+      "title": {
+        "ar": "ليلة سبع وعشرين",
+        "en": "The twenty-seventh night"
+      },
+      "body": {
+        "ar": "قال ﷺ: «من قام ليلة القدر إيمانًا واحتسابًا غُفر له ما تقدّم من ذنبه». متفق عليه. أحيِ الليلة بالصلاة والدعاء.",
+        "en": "The Prophet ﷺ said: “Whoever stands in prayer on Laylat al-Qadr with faith and seeking reward will be forgiven his previous sins.” Agreed upon. Spend tonight in prayer and du'a."
+      }
+    }
+  ]
 }
